@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strongwind0
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Study
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on study
 - 📫 How to reach me 862800529@qq.com
 
 <!---
